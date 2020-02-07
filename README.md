@@ -1,2 +1,4 @@
 # Data-Vis
-Data Visualization @ Ironhack
+# Fundamentals of Data Visualization
+
+A demonstration of data visualizations that accurately reflect the data, tell a story, and look professional.
