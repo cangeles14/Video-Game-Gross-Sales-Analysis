@@ -14,7 +14,7 @@ import random
 # Set seaborn for all graphs
 sns.set()
 
-df = pd.read_csv('/Users/christopher/Desktop/IronHack/projects/Data Visualization/vgsalesGlobale.csv')
+df = pd.read_csv('/Data Visualization/vgsalesGlobale.csv')
 
 # Examine and clean the dataframe
 df.query('Year >2015 & Global_Sales < 100').index
