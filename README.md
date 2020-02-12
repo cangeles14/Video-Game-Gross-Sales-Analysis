@@ -9,9 +9,12 @@ Here I will demonstrate how to use a dataset and utilizing Python, Pandas, Table
 ## Getting Started
 
 Finding database
-- different database websites to find a dataset
+- [Google Data Search](https://datasetsearch.research.google.com/)
+- [Kaggle](https://www.kaggle.com/kostyabahshetsyan/video-game-sales-visualization/data)
+- [UCI Machine Learning](http://mlr.cs.umass.edu/ml/)
 
-Used one from Kaggle - show link
+Dataset used here
+- [Video Game Sales Dataset - Kaggle](https://www.kaggle.com/garfieldliang/video-games-analysis/data)
 
 ## First Look & Data Cleaning
 
