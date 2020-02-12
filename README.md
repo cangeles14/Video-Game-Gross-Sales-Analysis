@@ -15,6 +15,10 @@ Used one from Kaggle - show link
 
 ## First Look & Data Cleaning
 
+Import needed libaries
+
+![Imports](https://github.com/cangeles14/Data-Vis/blob/master/Import%20libraries%20and%20load%20df.png)
+
 Take a look at dataset, using pandas and python
 
 ![First Look](https://github.com/cangeles14/Data-Vis/blob/master/FirstLook%20DataVis.png)
