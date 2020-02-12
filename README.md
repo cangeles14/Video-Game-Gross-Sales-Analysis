@@ -17,7 +17,7 @@ Used one from Kaggle - show link
 
 Take a look at dataset, using pandas and python
 
-![Image description](link-to-image)
+![First Look](https://github.com/cangeles14/Data-Vis/blob/master/FirstLook%20DataVis.png)
 
 Does your data need cleaning?
 Are there any null values?
