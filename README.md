@@ -20,11 +20,11 @@ Dataset used here
 
 Import needed libaries
 
-![Imports](https://github.com/cangeles14/Data-Vis/blob/master/Import%20libraries%20and%20load%20df.png)
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Import%20libraries%20and%20load%20df.png">
 
 Take a look at dataset, using pandas and python
 
-![First Look](https://github.com/cangeles14/Data-Vis/blob/master/FirstLook%20DataVis.png)
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/FirstLook%20DataVis.png">
 
 Does your data need cleaning?
 Are there any null values?
@@ -38,6 +38,24 @@ An outline will provide not only you structure but also structure for your audie
 ## Tableau / MatPlotLib
 
 ## Storytelling in a Presentation
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Gross%20Revenue.png" width="50%" height="75%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Gross%20Revenue%20Comparitive.png" width="50%" height="75%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Global%20Sales%201983-2016.png" width="50%" height="75%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Global%20Sales%20by%20Decade.jpg" width="80%" height="80%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Global_Sales%20for%20Platform.png" width="50%" height="75%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Platform%20Sales.jpg" width="75%" height="75%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Revenue%20PS3PS4.jpg" width="50%" height="75%">
+
+<img src="https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Images/Sales%20Revenue%20Nintendo.png" width="50%" height="75%">
+
+
 
 ## Conclusions
 
