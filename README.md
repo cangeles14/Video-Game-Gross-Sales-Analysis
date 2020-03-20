@@ -2,6 +2,8 @@
 
 Fundamentals of Data Visualization. Visualizations help you intuitively understand how the entities in your data compare to each other, how similarly or differently they behave, and where there are values that look extreme or incorrect.
 
+* [Presentation](https://github.com/cangeles14/Video-Game-Gross-Sales-Analysis/blob/master/Video%20Game%20Industry%20Data%20Vis%20Project.pdf)
+
 ## Purpose
 
 Here I will demonstrate how to use a dataset and utilizing Python, Pandas, Tableau, and MatPlotLib to extract insights on the data. The goal of this project is show how data visualization can enhance your findings from a dataset, allowing your audience to understand and visualize your results.
